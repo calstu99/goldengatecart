@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import dev from '../../../app/util/env';
+import dev from '../../util/env';
 // export const dynamic = 'force-static';
 
 
